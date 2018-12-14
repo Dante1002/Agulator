@@ -2,7 +2,7 @@ from tkinter import *
 import funkcje as f
 
 root = Tk()
-theLabel = Label(root, text="This is to easy",height=5)
+theLabel = Label(root, text="This is hard",height=5)
 theLabel.pack()
 
 
