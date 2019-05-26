@@ -16,7 +16,7 @@ while op == "t":
         else:
             print(c)
     elif b < c:
-        print(b)
+        print(b)1
     else:
         print(c)
 
